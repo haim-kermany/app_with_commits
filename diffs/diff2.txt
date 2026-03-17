@@ -1,0 +1,15 @@
+diff --git a/aa.txt b/aa.txt
+index aa334a8..1d0d46c 100644
+--- a/aa.txt
++++ b/aa.txt
+@@ -1 +1 @@
+-first line of aa
++second line in aa
+diff --git a/bb.txt b/bb.txt
+new file mode 100644
+index 0000000..a0af865
+--- /dev/null
++++ b/bb.txt
+@@ -0,0 +1,2 @@
++first line in bb
++second line in bb
